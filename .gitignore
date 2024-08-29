@@ -1,0 +1,177 @@
+# Derleme çıktıları
+bin/
+obj/
+
+# Visual Studio tarafından oluşturulan dosyalar
+.vs/
+
+# JetBrains Rider tarafından oluşturulan dosyalar
+.idea/
+
+# Node.js için önbellek ve modül dosyaları
+node_modules/
+
+# MacOS tarafından oluşturulan dosyalar
+.DS_Store
+
+# Visual Studio Code'a özgü dosyalar
+.vscode/
+
+# Visual Studio'nun dosyaları
+.vs/
+*.vspscc
+*_i.c
+*_p.c
+*.ncb
+*.suo
+*.tlb
+*.tlh
+*.bak
+*.cache
+*.ilk
+*.log
+*.lib
+*.sbr
+*.sdf
+*.idb
+*.pdb
+*.ipch/
+*.obj
+*.pch
+*.res
+*.idb
+*.exp
+*.tmp
+*.user
+*.aps
+*.pch
+*.vspscc
+*.vspx
+*.obj
+*.svd
+*.ipch
+*.scc
+*.sqlite
+*.sqlite3
+*.sdf
+*.ldf
+
+# JetBrains Rider'a özgü dosyalar
+.idea/
+
+# Derleme çıktıları
+bin/
+obj/
+
+# .NET Core tarafından oluşturulan derleme sonuçları
+*.dll
+*.exe
+*.pdb
+*.dll
+*.zip
+*.nupkg
+
+# Node.js için önbellek ve modül dosyaları
+node_modules/
+npm-debug.log*
+# Visual Studio
+.vscode/
+.vs/
+*.user
+*.suo
+
+# DotNet
+bin/
+obj/
+publish/
+wwwroot/
+
+# Logs
+*.log
+
+# Backup & Temp files
+*.bak
+*~
+*.tmp
+
+# Environment-specific settings
+appsettings.Development.json
+appsettings.Production.json
+# Derleme çıktıları
+bin/
+obj/
+
+# Visual Studio tarafından oluşturulan dosyalar
+.vs/
+
+# JetBrains Rider tarafından oluşturulan dosyalar
+.idea/
+
+# Node.js için önbellek ve modül dosyaları
+node_modules/
+
+# MacOS tarafından oluşturulan dosyalar
+.DS_Store
+
+# Visual Studio Code'a özgü dosyalar
+.vscode/
+
+# Visual Studio'nun dosyaları
+.vs/
+*.vspscc
+*_i.c
+*_p.c
+*.ncb
+*.suo
+*.tlb
+*.tlh
+*.bak
+*.cache
+*.ilk
+*.log
+*.lib
+*.sbr
+*.sdf
+*.idb
+*.pdb
+*.ipch/
+*.obj
+*.pch
+*.res
+*.idb
+*.exp
+*.tmp
+*.user
+*.aps
+*.pch
+*.vspscc
+*.vspx
+*.obj
+*.svd
+*.ipch
+*.scc
+*.sqlite
+*.sqlite3
+*.sdf
+*.ldf
+
+# JetBrains Rider'a özgü dosyalar
+.idea/
+
+# Derleme çıktıları
+bin/
+obj/
+
+# .NET Core tarafından oluşturulan derleme sonuçları
+*.dll
+*.exe
+*.pdb
+*.dll
+*.zip
+*.nupkg
+
+# Node.js için önbellek ve modül dosyaları
+node_modules/
+npm-debug.log*
+wwwroot/lib/
+
